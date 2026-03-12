@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(253, 230, 201);
+}
+
+#welcome {
+    font-size: 100px;
+    text-align: center;
+    color: rgb(253, 188, 144);
+}
+
+#searching {
+    font-size: 50px;
+    text-align: center;
+    color: #e9a578;
+}
+
+buttons {
+    display: flex;
+    justify-content: center;
+}
+
+lowbutton {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+}
+
+.pbutton {
+    background-color: rgb(253, 230, 201);
+    font-size: 50px;
+    color: rgb(253, 188, 144);
+    padding: 20px 50px;
+    border: none;
+}
+
+.ibutton {
+    background-color: rgb(253, 230, 201);
+    color: rgb(253, 188, 144);
+    border: none;
+}
